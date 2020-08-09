@@ -1,6 +1,6 @@
 ### 👋 Ola Mundo, Sou Sillas Vinícius!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-sillas-vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sillas-vinícius-840967169)]
+[![Linkedin Badge](https://img.shields.io/badge/-SillasVinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sillas-vinícius-840967169)](https://www.linkedin.com/in/sillas-vinícius-840967169)
 &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-sillasvinicius0403@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sillasvinicius0403@gmail.com)](mailto:sillasvinicius0403@gmail.com)
 
