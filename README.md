@@ -19,7 +19,7 @@ Sou desenvolvedor Front-End, Back-End e Mobile no Brasil💚, **19 anos** 👶�
 
 **Amo Estudar** 📕, **arranho um pouco no violão** 🎸, um ótimo companheiro para **games** 🎮 e fã de **animes** 🗡. 
 
-* 💫 Sempre visando ** usabilidade ** e ** desempenho de código ** a todo custo.
+* 💫 Sempre visando **usabilidade** e **desempenho de código** a todo custo.
 * 👽 Aprendendo as melhores tecnologias do mercado.
 
 ----
