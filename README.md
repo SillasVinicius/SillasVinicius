@@ -1,6 +1,10 @@
 ### 👋 Ola Mundo, Sou Sillas Vinícius!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-<a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
+[![Linkedin Badge](https://img.shields.io/badge/-sillas-vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sillas-vinícius-840967169)]
+&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-sillasvinicius0403@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sillasvinicius0403@gmail.com)](mailto:sillasvinicius0403@gmail.com)
+
+<a target="_blank" href="https://www.linkedin.com/in/sillas-vinícius-840967169">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5531984180449">
