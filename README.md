@@ -19,7 +19,7 @@
 
 ---- 
 
-Olá, Sou Sillas, but you can call me **Ary**. 
+Olá, Sou Sillas, prazer 👋👋👋. 
 
 Sou desenvolvedor Front-End, Back-End e Mobile no Brasil💚, **19 anos** 👶🏻 e **cursando o 4º período de Sistemas de Informação na Faculdade Una em Uberlândia** 🧐. 
 
@@ -27,7 +27,6 @@ Sou desenvolvedor Front-End, Back-End e Mobile no Brasil💚, **19 anos** 👶�
 
 * 💫 Sempre visando ** usabilidade ** e ** desempenho de código ** a todo custo.
 * 👽 Aprendendo as melhores tecnologias do mercado.
-* 🛹 Também navegando em coisas de microcontroladores.
 
 ----
 
