@@ -3,22 +3,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-SillasVinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sillas-vinícius-840967169)](https://www.linkedin.com/in/sillas-vinícius-840967169)
 &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-sillasvinicius0403@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sillasvinicius0403@gmail.com)](mailto:sillasvinicius0403@gmail.com)
-
-<a target="_blank" href="https://www.linkedin.com/in/sillas-vinícius-840967169">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5531984180449">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-<a target="_blank" href="https://www.instagram.com/sillas.exe/?hl=pt-br">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a target="_blank" href="mailto:sillasvinicius0403@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a target="_blank" href="https://www.facebook.com/people/Sillas-Vinicius/100008152723069">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+&nbsp;
+[![Instagram Badge](https://img.shields.io/badge/-sillas.exe-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sillas.exe/?hl=pt-br)](https://www.instagram.com/sillas.exe/?hl=pt-br)
+&nbsp;
+[![Facebook Badge](https://img.shields.io/badge/-SillasViniciusBarbosaBraga-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/people/Sillas-Vinicius/100008152723069)](https://www.facebook.com/people/Sillas-Vinicius/100008152723069)
+&nbsp;
+[![Whatsapp Badge](https://img.shields.io/badge/-SillasVinicius-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5531984180449)](https://api.whatsapp.com/send?phone=5531984180449)
 </br>
 
 ---- 
