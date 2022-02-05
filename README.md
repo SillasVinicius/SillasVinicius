@@ -15,11 +15,11 @@
 
 Olá, Sou Sillas, prazer 👋👋👋. 
 
-Sou desenvolvedor Front-End, Back-End e Mobile no Brasil💚, **20 anos** 👶🏻 e **cursando o 4º período de Sistemas de Informação na Faculdade Una em Uberlândia** 🧐. 
+Sou desenvolvedor Web no Brasil💚, tenho **20 anos**  e estou **cursando o 7º período de Sistemas de Informação na Faculdade Una em Uberlândia** 🧐. 
 
-**Amo estudar e aprender coisas novas** 📕, **arranho um pouco no violão** 🎸, um ótimo companheiro para **games** 🎮 e fã de **animes** e **super-heróis** 🗡. 
+**Amo Estudar** 📕, **arranho um pouco no violão** 🎸, um ótimo companheiro para **games** 🎮 e fã de **animes** 🗡. 
 
-* 💫 Sempre visando **usabilidade** e **desempenho de código** a todo custo.
+* 💫 Sempre visando ** usabilidade ** e ** desempenho de código ** .
 * 👽 Aprendendo as melhores tecnologias do mercado.
 
 ----
