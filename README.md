@@ -19,7 +19,7 @@ Sou desenvolvedor Web no Brasil💚, tenho **20 anos**  e estou **cursando o 7º
 
 **Amo Estudar** 📕, **arranho um pouco no violão** 🎸, um ótimo companheiro para **games** 🎮 e fã de **animes** 🗡. 
 
-* 💫 Sempre visando ** usabilidade ** e ** desempenho de código ** .
+* 💫 Sempre visando **usabilidade** e **desempenho de código** .
 * 👽 Aprendendo as melhores tecnologias do mercado.
 
 ----
