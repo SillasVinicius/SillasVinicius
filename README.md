@@ -24,7 +24,7 @@ Sou desenvolvedor Web no Brasil💚, tenho **23 anos**  e sou formado em **Siste
 
 ----
 
-**Linguagens e Ferramentas:**  
+**Linguagens, Frameworks e Ferramentas favoritas:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
