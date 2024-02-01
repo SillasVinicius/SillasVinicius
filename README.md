@@ -1,4 +1,4 @@
-### 👋 Ola Mundo, Sou Sillas Vinícius!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### 👋 Ola Mundo!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-SillasVinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sillas-vinícius-840967169)](https://www.linkedin.com/in/sillas-vinícius-840967169)
 &nbsp;
@@ -15,7 +15,7 @@
 
 Olá, Sou Sillas, prazer 👋👋👋. 
 
-Sou desenvolvedor Web no Brasil💚, tenho **20 anos**  e estou **cursando o 7º período de Sistemas de Informação na Faculdade Una em Uberlândia** 🧐. 
+Sou desenvolvedor Web no Brasil💚, tenho **23 anos**  e sou formado em **Sistemas de Informação na Faculdade Una em Uberlândia** 🧐. 
 
 **Amo Estudar** 📕, **arranho um pouco no violão** 🎸, um ótimo companheiro para **games** 🎮 e fã de **animes** 🗡. 
 
