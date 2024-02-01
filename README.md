@@ -37,9 +37,3 @@ Sou desenvolvedor Web no Brasil💚, tenho **23 anos**  e sou formado em **Siste
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-----
-
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Veja meu status no GitHub
-   
-![SillasVinicius GitHub Stats](https://github-readme-stats.vercel.app/api?username=SillasVinicius&show_icons=true)
