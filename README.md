@@ -15,7 +15,7 @@
 
 Olá, Sou Sillas, prazer 👋👋👋. 
 
-Sou desenvolvedor Web no Brasil💚, tenho **23 anos**  e sou formado em **Sistemas de Informação na Faculdade Una em Uberlândia** 🧐. 
+Sou desenvolvedor Web no Brasil💚, tenho **24 anos**  e sou formado em **Sistemas de Informação na Faculdade Una em Uberlândia** 🧐. 
 
 **Amo Estudar** 📕, **arranho um pouco no violão** 🎸, um ótimo companheiro para **games** 🎮 e fã de **animes** 🗡. 
 
