@@ -10,10 +10,10 @@
   <a href="mailto:sillasvinicius0403@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/sillas.exe" target="_blank">
+  <a href="https://www.instagram.com/sillas.braga" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5531984180449" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5534984207548" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
@@ -79,4 +79,4 @@ Atuo criando soluções **eficientes**, **escaláveis** e com foco em **usabilid
 
 ---
 
-<p align="center">💬 Vamos conversar? Me chame no <a href="https://api.whatsapp.com/send?phone=5531984180449">WhatsApp</a> ou <a href="mailto:sillasvinicius0403@gmail.com">E-mail</a>.</p>
+<p align="center">💬 Vamos conversar? Me chame no <a href="https://api.whatsapp.com/send?phone=5534984207548">WhatsApp</a> ou <a href="mailto:sillasvinicius0403@gmail.com">E-mail</a>.</p>
